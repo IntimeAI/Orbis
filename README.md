@@ -15,12 +15,11 @@
 </div>
 
 ## 📖 Dataset Overview
-
-**Orbis** is an open-source collection of high-quality 3D scene datasets, spanning diverse scales from **desktop (small-scale) environments** to **complex indoor (medium-scale)**, **urban, and natural (large-scale) scenarios**. All scenes are **simulation-ready** with comprehensive physical properties, enabling seamless integration with physics engines. Powered by our advanced generative models, these datasets support precise scene editing and customization through multimodal inputs such as text and images. We also provide API capabilities for programmatic access and automated dataset generation at scale.
+**Orbis** is an open-source collection of high-quality 3D scene datasets that covers multiple spatial scales, ranging from **tabletop (small-scale) scenes** to **complex indoor (medium-scale)**, **urban, and natural (large-scale) environments**. All scenes are **simulation-ready** with comprehensive physical properties, enabling seamless integration with physics engines. Powered by our advanced generative models, these datasets support precise scene editing and customization through multimodal inputs such as text and images. We also provide API capabilities for programmatic access and automated dataset generation at scale.
 
 ### High Diversity
 
-Orbis covers a wide spectrum of scene types ranging from **desktop (small-scale) environments** to **complex indoor (medium-scale)**, **urban, and natural (large-scale) scenarios**. Each scene features rich object combinations, diverse layout variations, and realistic spatial configurations.
+Orbis covers a wide spectrum of scene types ranging from **tabletop (small-scale) scenes** to **complex indoor (medium-scale)**, **urban, and natural (large-scale) environments**. Each scene features rich object combinations, diverse layout variations, and realistic spatial configurations.
 
 <div align="center">
 
@@ -79,7 +78,7 @@ Orbis has significant advantages in scene realism, material quality, and detail 
 
 | Dataset | Description | Status | Github Link |
 |:-------:|:-----------:|:------:|:----:|
-| **Orbis-Desktop-v1** | Desktop scenes<br>with objects and equipments | ✅ Available | [💻 Github](https://github.com/IntimeAI/Orbis-Desktop-v1) |
+| **Orbis-Tabletop-v1** | Tabletop scenes<br>with objects and equipments | ✅ Available | [💻 Github](https://github.com/IntimeAI/Orbis-Tabletop-v1) |
 | **Orbis-Home-v1** | Home scenes<br>with diverse layouts and furnitures | 🚧 Coming Soon | - |
 | **Orbis-Urban-v1** | Urban scenes<br>with streets, buildings, and city environments | 🚧 Coming Soon | - |
 
