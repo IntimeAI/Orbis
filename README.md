@@ -78,9 +78,9 @@ Orbis has significant advantages in scene realism, material quality, and detail 
 
 | Dataset | Description | Status | Github Link |
 |:-------:|:-----------:|:------:|:----:|
-| **Orbis-Tabletop-v1** | Tabletop scenes<br>with objects and equipments | ✅ Available | [💻 Github](https://github.com/IntimeAI/Orbis-Tabletop-v1) |
-| **Orbis-Home-v1** | Home scenes<br>with diverse layouts and furnitures | 🚧 Coming Soon | - |
-| **Orbis-Urban-v1** | Urban scenes<br>with streets, buildings, and city environments | 🚧 Coming Soon | - |
+| **Orbis-Tabletop** | Tabletop scenes<br>with objects and equipments | ✅ Available | [💻 Github](https://github.com/IntimeAI/Orbis-Tabletop) |
+| **Orbis-Home** | Home scenes<br>with diverse layouts and furnitures | 🚧 Coming Soon | - |
+| **Orbis-Urban** | Urban scenes<br>with streets, buildings, and city environments | 🚧 Coming Soon | - |
 
 </div>
 
